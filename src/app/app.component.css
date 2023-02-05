@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+ body {
+     /* background-color: #632A50; */
+     /* background: rgb(63,94,251); */
+    /* background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 65%);  */
+     color: white; 
+    /* background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%); */
+    /* background-image: linear-gradient(to , #d9afd9 0%, #97d9e1 100%); */
+    /* background-image: linear-gradient(to right, #d9afd9 0%, #97d9e1 100%); */
+    background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%);
+    font-family: 'Times New Roman', Times, serif; 
+
+    /* font-family: 'Merienda', cursive;  */
+    /* animation: animate 15s ease infinite; */
+   } 
+
+   /* @keyframes animate {
+
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+} */
+
+   .navbar-brand {
+    /* background-image:linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);; */
+    /* background-image: linear-gradient(to bottom, #30cfd0 0%, #330867 100%); */
+    color: white;
+    font-size: 20px;
+   }
+
+    h1{
+    /* color: purple; */
+    
+    font-size: 65px;
+    text-align: center;
+    }
+h3{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+} 
+
+
+
+    
+
+
+  
+
+  
